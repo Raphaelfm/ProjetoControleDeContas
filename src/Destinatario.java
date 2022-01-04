@@ -39,7 +39,7 @@ public class Destinatario {
         return mes;
     }
 
-    public void setMesr(String mes) {
+    public void setMes(String mes) {
 
     }
 }

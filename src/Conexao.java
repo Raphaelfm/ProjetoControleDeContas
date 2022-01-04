@@ -69,7 +69,7 @@ public class Conexao {
             ler.close();
 
         } catch (FileNotFoundException e) {
-            System.out.println("O arquivo informado não foi encontrador, por favor verifique e tente novamente!");
+            System.out.println("O arquivo informado não foi encontrado, por favor verifique e tente novamente!");
         }
     }
 
